@@ -411,3 +411,11 @@
 [06-Oct-2015 15:31:09 UTC] PHP Stack trace:
 [06-Oct-2015 15:31:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/smt/processor.php:0
 [06-Oct-2015 15:31:09 UTC] PHP   2. unlink() /home/ubuntu/workspace/smt/processor.php:61
+[20-Nov-2015 21:24:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'slabinoha'@'localhost' (using password: NO) in /home/ubuntu/workspace/smt/genxml.php on line 15
+[20-Nov-2015 21:24:33 UTC] PHP Stack trace:
+[20-Nov-2015 21:24:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/smt/genxml.php:0
+[20-Nov-2015 21:24:33 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/smt/genxml.php:15
+[20-Nov-2015 21:32:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'slabinoha'@'localhost' (using password: NO) in /home/ubuntu/workspace/smt/genxml.php on line 15
+[20-Nov-2015 21:32:04 UTC] PHP Stack trace:
+[20-Nov-2015 21:32:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/smt/genxml.php:0
+[20-Nov-2015 21:32:04 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/smt/genxml.php:15

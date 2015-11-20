@@ -1,5 +1,5 @@
 <?php
-$username="slabinoha";
+$username="anddep";
 $password="";
 $database="ecomap";
 ?>
